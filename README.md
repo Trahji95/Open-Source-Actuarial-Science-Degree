@@ -1,6 +1,6 @@
 # Open-Source-Actuarial-Science-Degree
   will describe repository when complete 
-##  Actuarial Science Basics 
+##  Actuarial Science Basics Year One
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
 | [Microeconomics](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/index.htm)| MIT |  12 <br/> Weeks   |  10+ <br/> Hours/Week  |  self-paced  |   none  |
@@ -29,3 +29,8 @@ note courses can be taken one at a time
 | Java II       | M/W/F           |
 | Sequences and Series | T/Th     |
 | Communication | T/Th            |
+## Actuarial Science Year Two Courses
+| Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
+| :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
+| [Introduction to Actuarial Science](https://www.edx.org/course/introduction-to-actuarial-science?index=product&queryID=d5a866c3bef9d2778f61db89e56aa24a&position=17) | 4 <br/> Weeks | 10+ <br/> Hours/Week | self-paced | Mathematical Statisitcs - recommended |
+| [Interest Theory Book I](https://www.actexmadriver.com/samples/ACTEX_2FM-ACT-882216_sample_12-18-17.pdf) <br/> [Interest Theory Book II](https://faculty.ksu.edu.sa/sites/default/files/derivatives_markets_3e_0.pdf) | (Your Name Here) University | 10 Weeks | 25+ <br/> Hours/Week | self-paced | Calc II  <br/> Sequences And Series |
