@@ -32,5 +32,7 @@ note courses can be taken one at a time
 ## Actuarial Science Year Two Courses
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
-| [Introduction to Actuarial Science](https://www.edx.org/course/introduction-to-actuarial-science?index=product&queryID=d5a866c3bef9d2778f61db89e56aa24a&position=17) | 4 <br/> Weeks | 10+ <br/> Hours/Week | self-paced | Mathematical Statisitcs - recommended |
+| [Introduction to Actuarial Science](https://www.edx.org/course/introduction-to-actuarial-science?index=product&queryID=d5a866c3bef9d2778f61db89e56aa24a&position=17) | 4 <br/> Weeks | 10+ <br/> Hours/Week | self-paced | Mathematical Statisitcs - recommended | none |
 | [Interest Theory Book I](https://www.actexmadriver.com/samples/ACTEX_2FM-ACT-882216_sample_12-18-17.pdf) <br/> [Interest Theory Book II](https://faculty.ksu.edu.sa/sites/default/files/derivatives_markets_3e_0.pdf) | (Your Name Here) University | 10 Weeks | 25+ <br/> Hours/Week | self-paced | Calc II  <br/> Sequences And Series |
+| [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | MIT | 8 <br/> Weeks | 20+ <br/> Hours/Week | self-paced | Calc I |
+| [Probability](https://www.amazon.com/Probability-Springer-Texts-Statistics-Pitman-dp-0387979743/dp/0387979743/ref=mt_other?_encoding=UTF8&me=&qid=1641325716) |  (Your Name Here) University | 10 Weeks | 25+ <br/> Hours/Week | self-paced | Calc II  <br/> Sequences And Series |
