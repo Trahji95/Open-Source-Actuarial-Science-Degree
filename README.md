@@ -3,6 +3,11 @@
 ##  Actuarial Science Basics 
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
-| [Microeconomics](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/index.htm)| MIT |  12 <br/> Weeks   |  10 <br/> Hours/Week  |  self-paced  |   none  |
-| [Macroeconomics](https://ocw.mit.edu/courses/economics/14-02-principles-of-macroeconomics-spring-2014/index.htm) |  MIT      |  12 <br/> Weeks  |  10 <br/> Hours/Week | self-paced |   none     |
-| zebra stripes | are neat                |            $12  |            $12 |            $12 |            $12  |
+| [Microeconomics](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/index.htm)| MIT |  12 <br/> Weeks   |  10+ <br/> Hours/Week  |  self-paced  |   none  |
+| [Macroeconomics](https://ocw.mit.edu/courses/economics/14-02-principles-of-macroeconomics-spring-2014/index.htm) |  MIT      |  12 <br/> Weeks  |  10+ <br/> Hours/Week | self-paced |   none     |
+| [Accounting Basics](https://ocw.mit.edu/courses/sloan-school-of-management/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/) | MIT      |            12 <br/>Weeks  | 10+ <br/> Hours/Week  |  self-paced |  none  |
+| [Calculus 1 Engineers](https://www.edx.org/course/engineering-calculus-and-differential-equations?index=product&queryID=80b24023c0d6d7b747480f4bfe03eb47&position=1) | HKU | 12 <br/> Weeks | 20+ Hours/Week | 3.5 <br/>Months | Pre-Calc |
+| [Calculus 2](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | MIT | 12 <br/> Weeks | 20+ Hours/Week | 3.5 <br/>Months | Calc 1 |
+| [Sequences and Series](https://tutorial.math.lamar.edu/Classes/CalcII/SeriesIntro.aspx) | Pauls Online Notes | 4 <br/> Weeks | 12 <br/> Hours/Week | self-paced | Calc 1 |
+| [Java I](https://learning.edx.org/course/course-v1:HKUSTx+COMP102.1x+3T2021/home) <br/> [Java II](https://www.edx.org/course/introduction-to-java-programming-part-2?index=product&queryID=62b2867389510917001c24736f7e44c7&position=1) | HKU | 4 <br/> Weeks Each | 20+ <br/>Hours/Week |self-paced | none |
+| [Communication](https://www.edx.org/course/PMCOMM01?index=product&queryID=0b3bb64436fb04e0f65c2b91b0651bf7&position=13) | University of Maryland | 5 <br/> Weeks  | 10+ <br/>Hours/Week |self-paced | none |
