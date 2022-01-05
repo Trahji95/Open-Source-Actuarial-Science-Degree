@@ -50,3 +50,6 @@ note courses can be taken one at a time
 | :------------ | :-------------: |
 | Probability        | M/W/F           |
 | Mathematical Statistics        | M/W/F           |
+## Actuarial Science Year Three Courses
+| Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
+| :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
