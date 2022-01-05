@@ -37,3 +37,16 @@ note courses can be taken one at a time
 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | MIT | 8 <br/> Weeks | 20+ <br/> Hours/Week | self-paced | Calc I |
 | [Probability](https://www.amazon.com/Probability-Springer-Texts-Statistics-Pitman-dp-0387979743/dp/0387979743/ref=mt_other?_encoding=UTF8&me=&qid=1641325716) |  (Your Name Here) University | 10 Weeks | 25+ <br/> Hours/Week | self-paced | Calc II  <br/> Sequences And Series |
 | [Mathematical Statisitics Mandatory Text](https://www.amazon.com/s?k=John+E.+Freund%27s+Mathematical+Statistics+with+Applications&i=stripbooks&crid=365XSNOQ6LW0L&sprefix=john+e.+freund%27s+mathematical+statistics+with+applications+%2Cstripbooks%2C63&ref=nb_sb_noss) <br/> [Mathematical Statistics Optional Text](https://www.amazon.com/Introduction-Probability-Cambridge-Mathematical-Textbooks/dp/1108415857) | (Your Name Here) University | 10 Weeks | 25+ <br/> Hours/Week | self-paced | Calc II  <br/> Sequences And Series |
+## Schedual Term 3
+### 16 Weeks 
+| Course        | Days            |
+| :------------ | :-------------: |
+| Introduction to Actuarial Science| T/Th            |
+| Interest Theory        | M/W/F           |
+| Linear Algebra        | M/W/F           |
+## Schedual Term 4
+### 16 Weeks 
+| Course        | Days            |
+| :------------ | :-------------: |
+| Probability        | M/W/F           |
+| Mathematical Statistics        | M/W/F           |
