@@ -57,7 +57,7 @@ note courses can be taken one at a time
 | [Financial Accounting](https://www.edx.org/course/finance-accounting?index=product&queryID=696f3c4dbb6d7e41e195c14c93593448&position=3) | MIT | 12 <br/> Weeks | 15+ <br/> Hours/Week | instructor-led | Calc II <br/> Linear Algebra |
 | [Finance](https://www.amazon.com/Essentials-Corporate-Finance-6Ed-2008/dp/B01CCPV5RM/ref=sr_1_4?crid=DSALMYQ7FHZO&keywords=ross%2C+s+essentials+of+corporate+finance&qid=1641418297&s=books&sprefix=ross%2C+s+essentials+of+corporatefinance+%2Cstripbooks%2C65&sr=1-4) | (Your Name Here University) | 8 <br/> Weeks | 12+ <br/> Hours/Week | self-paced | none |
 | [Actuary Practicum](https://www.youtube.com/c/EtchedActuarial/videos) | 1 <br/> Week | 2+ <br/> Hours/Week | self-paced | none |
-| [Business Writing](https://www.edx.org/course/business-writing-techniques?index=product&queryID=e2d3209a5188d944a0c00df45ec95a6d&position=2) |  | 4 Weeks | 8+ <br/> Hours/Week | self-paced | College Writing Level 1 |
+| [Business Writing](https://www.edx.org/course/business-writing-techniques?index=product&queryID=e2d3209a5188d944a0c00df45ec95a6d&position=2) | DoaneX | 4 Weeks | 8+ <br/> Hours/Week | self-paced | College Writing Level 1 |
 ## Schedual Term 5
 ### 16 Weeks 
 | Course        | Days            |
@@ -66,3 +66,8 @@ note courses can be taken one at a time
 | Finance       | T/Th           |
 | Actuary Practicum | Sat |
 | Business Writing | T/Th |
+## Actuarial Science Year Four Courses
+| Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
+| :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
+| [Life Contingency Mathematics](https://www.amazon.com/Actuarial-Mathematics-Contingent-International-Science/dp/1107044073/ref=sr_1_4?crid=2UCE1OVKD3XLW&keywords=Actuarial+Mathematics+for+Life+Contingent+Risks&qid=1641491979&refinements=p_n_condition-type%3A1294425011&rnid=1294421011&s=books&sprefix=actuarial+mathematics+for+life+contingent+risks%2Cstripbooks%2C388&sr=1-4) | (Your Name Here) University | 12 <br/> Weeks | 25+ <br/> Hours/Week | self-paced | High Level Math & Jr Standing |
+| Loss Models[](https://www.amazon.com/Loss-Models-Decisions-Stuart-Klugman/dp/1118315324/ref=sr_1_6?crid=2RUIL6IN9DLUD&keywords=Loss+Models%3A+From+Data+to+Decisions&qid=1641492335&s=books&sprefix=loss+models+from+data+to+decisions%2Cstripbooks%2C238&sr=1-6) |  (Your Name Here) University | 12 <br/> Weeks | 25+ <br/> Hours/Week | self-paced | High Level Math & Jr Standing |
