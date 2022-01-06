@@ -53,3 +53,7 @@ note courses can be taken one at a time
 ## Actuarial Science Year Three Courses
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
+| [Financial Accounting](https://www.edx.org/course/finance-accounting?index=product&queryID=696f3c4dbb6d7e41e195c14c93593448&position=3) | MIT | 12 <br/> Weeks | 15+ <br/> Hours/Week | instructor-led | Calc II <br/> Linear Algebra |
+| [Finance](https://www.amazon.com/Essentials-Corporate-Finance-6Ed-2008/dp/B01CCPV5RM/ref=sr_1_4?crid=DSALMYQ7FHZO&keywords=ross%2C+s+essentials+of+corporate+finance&qid=1641418297&s=books&sprefix=ross%2C+s+essentials+of+corporatefinance+%2Cstripbooks%2C65&sr=1-4) | (Your Name Here University) | 8 <br/> Weeks | 12+ <br/> Hours/Week | self-paced | none |
+| [Actuary Practicum](https://www.youtube.com/c/EtchedActuarial/videos) | 1 <br/> Week | 2+ <br/> Hours/Week | self-paced | none |
+| [Financial Economics](https://www.amazon.com/Derivatives-Markets-2nd-Robert-McDonald/dp/032128030X/ref=sr_1_2?crid=JA4OWDAI0MV0&keywords=derivatives+markets+mcdonald+2nd&qid=1641479926&sprefix=derivatives+markets+mcdonaldb+2nd%2Caps%2C225&sr=8-2) | MIT | 12 <br/> Weeks | 15+ <br/> Hours/Week | instructor-led | Calc II <br/> Linear Algebra |
