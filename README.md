@@ -58,4 +58,11 @@ note courses can be taken one at a time
 | [Finance](https://www.amazon.com/Essentials-Corporate-Finance-6Ed-2008/dp/B01CCPV5RM/ref=sr_1_4?crid=DSALMYQ7FHZO&keywords=ross%2C+s+essentials+of+corporate+finance&qid=1641418297&s=books&sprefix=ross%2C+s+essentials+of+corporatefinance+%2Cstripbooks%2C65&sr=1-4) | (Your Name Here University) | 8 <br/> Weeks | 12+ <br/> Hours/Week | self-paced | none |
 | [Actuary Practicum](https://www.youtube.com/c/EtchedActuarial/videos) | 1 <br/> Week | 2+ <br/> Hours/Week | self-paced | none |
 | [Business Writing](https://www.edx.org/course/business-writing-techniques?index=product&queryID=e2d3209a5188d944a0c00df45ec95a6d&position=2) |  | 4 Weeks | 8+ <br/> Hours/Week | self-paced | College Writing Level 1 |
-| [Business Writing](https://www.edx.org/course/business-writing-techniques?index=product&queryID=e2d3209a5188d944a0c00df45ec95a6d&position=2) |  | 4 Weeks | 8+ <br/> Hours/Week | self-paced | College Writing Level 1 |
+## Schedual Term 5
+### 16 Weeks 
+| Course        | Days            |
+| :------------ | :-------------: |
+| Financial Accounting        | M/W/F           |
+| Finance       | T/Th           |
+| Actuary Practicum | Sat |
+| Business Writing | T/Th |
