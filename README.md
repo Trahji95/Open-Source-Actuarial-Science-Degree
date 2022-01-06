@@ -71,3 +71,10 @@ note courses can be taken one at a time
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
 | [Life Contingency Mathematics](https://www.amazon.com/Actuarial-Mathematics-Contingent-International-Science/dp/1107044073/ref=sr_1_4?crid=2UCE1OVKD3XLW&keywords=Actuarial+Mathematics+for+Life+Contingent+Risks&qid=1641491979&refinements=p_n_condition-type%3A1294425011&rnid=1294421011&s=books&sprefix=actuarial+mathematics+for+life+contingent+risks%2Cstripbooks%2C388&sr=1-4) | (Your Name Here) University | 12 <br/> Weeks | 25+ <br/> Hours/Week | self-paced | High Level Math & Jr Standing |
 | Loss Models[](https://www.amazon.com/Loss-Models-Decisions-Stuart-Klugman/dp/1118315324/ref=sr_1_6?crid=2RUIL6IN9DLUD&keywords=Loss+Models%3A+From+Data+to+Decisions&qid=1641492335&s=books&sprefix=loss+models+from+data+to+decisions%2Cstripbooks%2C238&sr=1-6) |  (Your Name Here) University | 12 <br/> Weeks | 25+ <br/> Hours/Week | self-paced | High Level Math & Jr Standing |
+## Schedual Term 6
+### 16 Weeks 
+| Course        | Days            |
+| :------------ | :-------------: |
+| Loss Models      | M/W/F           |
+| Life Contingency Mathematics    | T/Th           |
+| Prepare For Actuary Exams | M-Sat |
