@@ -1,5 +1,6 @@
-# Open-Source-Actuarial-Science-Degree
-  will describe repository when complete 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Open%20Source%20Actuarial%20Science%20Degree&fontSize=40)
+
+### will describe repository when complete 
 ##  Actuarial Science Basics Year One
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
