@@ -76,3 +76,5 @@ note courses can be taken one at a time
 | Loss Models      | M/W/F           |
 | Life Contingency Mathematics    | T/Th           |
 | Prepare For Actuary Exams | M-Sat |
+
+[![Game On](https://user-images.githubusercontent.com/41341845/148693454-5faec0ed-bd11-4763-8802-242ae77988f9.png)](https://www.soa.org/education/exam-req/edu-asa-req/)
