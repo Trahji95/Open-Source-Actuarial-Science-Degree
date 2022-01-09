@@ -4,8 +4,7 @@
 ##  Actuarial Science Basics Year One
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
-| [Microeconomics](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/index.htm)| MIT |  12 <br/> Weeks   |  10+ <br/> Hours/Week  |  self-paced  |   none  |
-| [Macroeconomics](https://ocw.mit.edu/courses/economics/14-02-principles-of-macroeconomics-spring-2014/index.htm) |  MIT      |  12 <br/> Weeks  |  10+ <br/> Hours/Week | self-paced |   none     |
+| [Calc Based Economics](https://www.edx.org/course/principles-of-economics-with-calculus?index=product&queryID=8110f58edf987600be897faed1fc8281&position=4)| Caltech |  12 <br/> Weeks   |  10+ <br/> Hours/Week  |  self-paced  |   none  |
 | [Accounting Basics](https://ocw.mit.edu/courses/sloan-school-of-management/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/) | MIT      |            12 <br/>Weeks  | 10+ <br/> Hours/Week  |  self-paced |  none  |
 | [Calculus 1 Engineers](https://www.edx.org/course/engineering-calculus-and-differential-equations?index=product&queryID=80b24023c0d6d7b747480f4bfe03eb47&position=1) | HKU | 12 <br/> Weeks | 20+ Hours/Week | 3.5 <br/>Months | Pre-Calc |
 | [Calculus 2](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | MIT | 12 <br/> Weeks | 20+ Hours/Week | 3.5 <br/>Months | Calc 1 |
@@ -17,7 +16,6 @@
 note courses can be taken one at a time 
 | Course        | Days            |
 | :------------ | :-------------: |
-| Microeconomics| T/Th            |
 | Acc Basics    | T/Th            |
 | Calc I        | M/W/F           |
 | Java I        | M/W/F           |
@@ -25,7 +23,7 @@ note courses can be taken one at a time
 ### 16 Weeks
 | Course        | Days            |
 | :------------ | :-------------: |
-| Macroeconomics| T/Th            |
+| Economics| T/Th            |
 | Calc II       | M/W/F           |
 | Java II       | M/W/F           |
 | Sequences and Series | T/Th     |
