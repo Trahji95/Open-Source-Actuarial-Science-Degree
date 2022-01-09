@@ -4,7 +4,7 @@
 ##  Actuarial Science Basics Year One
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
-| [Calc Based Economics](https://www.edx.org/course/principles-of-economics-with-calculus?index=product&queryID=8110f58edf987600be897faed1fc8281&position=4)| Caltech |  12 <br/> Weeks   |  10+ <br/> Hours/Week  |  self-paced  |   none  |
+| [Calc Based Economics](https://www.edx.org/course/principles-of-economics-with-calculus?index=product&queryID=8110f58edf987600be897faed1fc8281&position=4)| Caltech |  10 <br/> Weeks   |  10+ <br/> Hours/Week  |  self-paced  |   none  |
 | [Accounting Basics](https://ocw.mit.edu/courses/sloan-school-of-management/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/) | MIT      |            12 <br/>Weeks  | 10+ <br/> Hours/Week  |  self-paced |  none  |
 | [Calculus 1 Engineers](https://www.edx.org/course/engineering-calculus-and-differential-equations?index=product&queryID=80b24023c0d6d7b747480f4bfe03eb47&position=1) | HKU | 12 <br/> Weeks | 20+ Hours/Week | 3.5 <br/>Months | Pre-Calc |
 | [Calculus 2](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | MIT | 12 <br/> Weeks | 20+ Hours/Week | 3.5 <br/>Months | Calc 1 |
