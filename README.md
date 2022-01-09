@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Open%20Source%20Actuarial%20Science%20Degree&fontSize=40)
 ## Table Of Contents
-[Year One]()
-[Year Two]()
-[Year Three]()
-[Year Four]()
+[Year One](https://github.com/Trahji95/Open-Source-Actuarial-Science-Degree/blob/main/README.md#actuarial-science-basics-year-one) <br/>
+[Year Two](https://github.com/Trahji95/Open-Source-Actuarial-Science-Degree/blob/main/README.md#actuarial-science-year-two-courses) <br/>
+[Year Three](https://github.com/Trahji95/Open-Source-Actuarial-Science-Degree/blob/main/README.md#actuarial-science-year-three-courses) <br/>
+[Year Four](https://github.com/Trahji95/Open-Source-Actuarial-Science-Degree/blob/main/README.md#actuarial-science-year-four-courses)
 ##  Actuarial Science Basics Year One
 | Courses       | School          | Duration       |      Effort    |    Frequency   |  Prerequisites  |
 | :------------ | :-------------: | :-------------:| :-------------:| :-------------:| :-------------: |
